@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+.swiftpm
+.build/
+*.pyc
+__pycache__/
+.idea/
+.vscode/
+/app_store_metadata.artifact.md
