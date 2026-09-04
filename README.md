@@ -10,6 +10,8 @@
 
 Snapshot Pro is a professional macOS application designed for developers and designers to create high-quality App Store assets, including screenshots and icons, with ease and efficiency.
 
+[**Download on the App Store**](https://apps.apple.com/us/app/snapshot-pro-for-developers/id6800303554)
+
 ### 🚀 Features
 
 #### 📸 Screenshot Editor
@@ -40,6 +42,9 @@ Snapshot Pro is a professional macOS application designed for developers and des
 4. **Style:** Use the "Smart Color" wand to match the background to your screenshots.
 5. **Export:** Click the Export button to save all screens to a folder, ready for App Store Connect.
 
+### 📄 License
+This project is licensed under the **Business Source License 1.1 (BSL 1.1)**. It will automatically convert to the **Apache License 2.0** on **December 31, 2029**. See the [LICENSE](LICENSE) file for details.
+
 ---
 
 <a name="简体中文"></a>
@@ -47,6 +52,8 @@ Snapshot Pro is a professional macOS application designed for developers and des
 ## 简体中文
 
 Snapshot Pro 是一款专业的 macOS 应用程序，专为开发者和设计师打造，旨在轻松、高效地创建高质量的 App Store 素材（包括屏幕截图和应用图标）。
+
+[**在 App Store 下载**](https://apps.apple.com/us/app/snapshot-pro-for-developers/id6800303554)
 
 ### 🚀 功能特性
 
@@ -77,6 +84,9 @@ Snapshot Pro 是一款专业的 macOS 应用程序，专为开发者和设计师
 3. **添加内容**：导入您的应用截图或自定义文字图层。
 4. **美化样式**：使用“智能配色”魔法棒，让背景与截图完美融合。
 5. **导出**：点击导出按钮，将所有屏幕保存到文件夹，即可直接用于 App Store Connect。
+
+### 📄 开源协议
+本项目采用 **Business Source License 1.1 (BSL 1.1)** 协议。该协议将于 **2029 年 12 月 31 日** 自动转换为 **Apache License 2.0**。详情请参阅 [LICENSE](LICENSE) 文件。
 
 ---
 *Created with Snapshot Pro - The easiest way to ship your app assets.*
